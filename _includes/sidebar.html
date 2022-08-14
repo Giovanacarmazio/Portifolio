@@ -13,17 +13,7 @@
 		
 		{% if site.data.sidebar.LinkedIn && site.data.sidebar.LinkedIn != "" %}<a target="_blank" href="https://www.linkedin.com/in/{{ site.data.sidebar.LinkedIn }}">{% include social-icon.html icon="LinkedIn" %}</a>{% endif %} 
 		{% if site.data.sidebar.github && site.data.sidebar.github != "" %}<a target="_blank" href="https://github.com/{{ site.data.sidebar.github }}">{% include social-icon.html icon="github" %}</a>{% endif %} 
-		{% if site.data.sidebar.LinkedIn && site.data.sidebar.LinkedIn != "" %}<a target="_blank" href="https://www.linkedin.com/in/{{ site.data.sidebar.LinkedIn }}">{% include social-icon.html icon="LinkedIn" %}</a>{% endif %} 
-		            {% if site.author.email %}
-              <!-- Email -->
-              <li class="navigation__item">
-                <a href="mailto:{{ email }}" title="email {{ site.author.email }}" target="_blank">
-                  <!--<i class="icon icon-mail"></i>-->
-                  <i class="fas fa-envelope fa-lg"></i>
-                  <span class="label">email</span>
-                </a>
-              </li>
-            {% endif %}
+
 	</div>
 
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
