@@ -31,7 +31,7 @@ layout: default
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
-		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
+		<a class="linkedin" href="https://www.linkedin.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="linkedin" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
 		<a class="instagram" href="https://instagram.com">{% include social-icon.html icon="Instagram" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
@@ -41,7 +41,7 @@ layout: default
 	<div class="cta">
 		<h2>More delicious recipes</h2>
 		<p>This is one of the many fantastic recipes available on this blog</p>
-		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more recipes</a></div>
+		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more </a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>
