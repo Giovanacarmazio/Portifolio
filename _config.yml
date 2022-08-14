@@ -13,7 +13,8 @@ logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
   name:
-  email:giovanacarmaazio@gmail.com
+  email:
+  
  
 social:
   name: Treat Template
