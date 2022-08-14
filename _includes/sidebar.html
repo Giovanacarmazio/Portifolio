@@ -13,13 +13,12 @@
 		
 		{% if site.data.sidebar.LinkedIn && site.data.sidebar.LinkedIn != "" %}<a target="_blank" href="https://www.linkedin.com/in/{{ site.data.sidebar.LinkedIn }}">{% include social-icon.html icon="LinkedIn" %}</a>{% endif %} 
 		{% if site.data.sidebar.github && site.data.sidebar.github != "" %}<a target="_blank" href="https://github.com/{{ site.data.sidebar.github }}">{% include social-icon.html icon="github" %}</a>{% endif %} 
-		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %} 
 		{% if site.data.sidebar.Currículo&Contato && site.data.sidebar.Currículo&Contato != "" %}<a target="_blank" href="https://drive.google.com/file/d/{{ site.data.sidebar.Currículo&Contato }}">{% include social-icon.html icon="Currículo&Contato" %}</a>{% endif %}
 	</div>
 
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
 		<h3>Newsletter</h3>
-		<p>Get my latest recipes sent straight to your inbox.</p>
+		<p></p>
 		<input type="text" name="EMAIL" placeholder="Email address">
 		<input type="submit" value="Sign up">
 	</form>
