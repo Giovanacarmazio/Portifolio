@@ -10,10 +10,10 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description:
+description: blog template for Jekyll.
 author:
   name:
-  email:giovanacarmaazio@gmail.com
+  email:
   
  
 social:
