@@ -4,7 +4,7 @@ title: Chocolate Cupcakes
 categories:
   - Cupcakes
   - Cakes
-featured_image: https://github.com/Giovanacarmazio/portifolio/blob/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Vendas.jpg
+featured_image: /images/author.jpg
 recipe:
   servings: 12 cupcakes
   prep: 5 minutes
