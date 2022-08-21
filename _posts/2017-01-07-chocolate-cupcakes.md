@@ -1,9 +1,9 @@
 ---
 date: 2017-01-07
-title: Chocolate Cupcakes
+title: KPI
 categories:
-  - portifolio/Cupcakes
-  - Cakes
+  - Power Bi
+  - Dax
 featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 recipe:
   servings: 12 cupcakes
