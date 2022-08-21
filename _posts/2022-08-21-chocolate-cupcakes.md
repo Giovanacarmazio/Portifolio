@@ -3,7 +3,6 @@ date: 2017-01-07
 title: KPI
 categories:
   - portifolio
-  - //portifolio
   - Power Bi
 featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 recipe:
