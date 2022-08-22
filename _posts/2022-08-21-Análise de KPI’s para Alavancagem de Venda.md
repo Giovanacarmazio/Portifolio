@@ -2,8 +2,7 @@
 date: 2017-01-07
 title: Análise de KPI’s para Alavancagem de Venda
 categories:
-  - Power BI
-  - Dax
+  
 featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 recipe:
   servings: 12 cupcakes
