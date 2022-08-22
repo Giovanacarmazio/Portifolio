@@ -1,5 +1,5 @@
 ---
-date: 2017-01-07
+date: 2022-08-21
 title: Análise de KPI’s para Alavancagem de Venda
 categories:
 portifolio
