@@ -2,7 +2,7 @@
 date: 2022-08-22
 title: Análise de KPI’s para Alavancagem de Venda
 categories:
-portifolio
+
 featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 recipe:
   servings: 12 cupcakes
