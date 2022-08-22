@@ -7,9 +7,10 @@ categories:
   
 featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 
-  ingredients_markdown: |-
-    **Critérios Utilizados na Análise**
-Para a análise efetuada foram utilizadas os seguintes critérios:
+
+##Critérios Utilizados na Análise
+
+#####Para a análise efetuada foram utilizadas os seguintes critérios:
 
 Não foram considerados as linhas em branco.
 
@@ -19,8 +20,7 @@ Uma Tabela apenas para pedidos e prazos,
 
 E um agrupamento de dados apenas para Soma de valor de frete e valor de produtos por n° do pedido.
 
-
-**Medidas Dax Utilizadas**:
+#####Medidas Dax Utilizadas:
 
 DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.
 
@@ -32,9 +32,7 @@ Fiz uma contagem distinta dos pedidos da base tirando os pedidos duplicados.
 E criei  medidas de %  dentro e fora do prazo de entrega e de envio, filtrando condições 1 e 3 criadas anteriormente.
 Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento fossem diferente de em branco, foram cancelados.
 
----
-
-![Pagina 1](./images/Análise de KPI’s para Alavancagem de Venda - 2.jpg)
+![](images/Análise de KPI’s para Alavancagem de Venda - 2.jpg)
 
 
-![Pagina 2](./images/Análise de KPI’s para Alavancagem de Venda - 3.jpg)
+![](images/Análise de KPI’s para Alavancagem de Venda - 3.jpg)
