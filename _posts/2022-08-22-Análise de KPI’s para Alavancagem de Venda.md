@@ -7,16 +7,28 @@ featured_image: "./images/Análise de KPI’s para Alavancagem de Vendas.jpg"
 recipe:
  
 ---
-These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
+Para a análise efetuada foram utilizadas os seguintes critérios:
 
-![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
+Não foram considerados as linhas em branco.
 
-You can never go wrong with sprinkles.
+Subdivisão do banco de dados em dois formatos em M:
 
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
+Uma Tabela apenas para pedidos e prazos,
+E um agrupamento de dados apenas para Soma de valor de frete e valor de produtos por n° do pedido.
 
-Milk is a great addition to any cupcake experience.
+Medidas Dax Utilizadas:
 
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
+DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.
 
-Why not add some popcorn?
+Data de Envio - Data Limite do envio para saber se o pedido tinha sido enviado no prazo ou não.
+Data de Entrega - Data Limite da Entrega para saber se o pedido tinha sido Entregue no prazo ou não.
+Se a condição criada anteriormente retornasse BLANK é 0, se retornasse <0 (Números negativos) é 1 e se retornasse >0 é 3.
+Com isso consegui montar uma lógica para saber quais data de envio e quais datas de entrega estavam em branco, em atraso ou entregue no prazo.
+Fiz uma contagem distinta dos pedidos da base tirando os pedidos duplicados.
+E criei  medidas de %  dentro e fora do prazo de entrega e de envio, filtrando condições 1 e 3 criadas anteriormente.
+Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento fossem diferente de em branco, foram cancelados.
+
+
+
+![Cupcakes]("images/Análise de KPI’s para Alavancagem de Venda - 2.jpg")
+
