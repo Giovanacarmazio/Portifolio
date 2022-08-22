@@ -2,8 +2,8 @@
 # Site
 
 title: Giovana Carmazio
-url: "https://giovanacarmazio.github.io/portifolio/"
-baseurl: https://giovanacarmazio.github.io/
+url: "https://giovanacarmazio.github.io/portifolio"
+baseurl: "https://giovanacarmazio.github.io/portifolio"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
