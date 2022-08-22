@@ -8,7 +8,7 @@
 		</p>
 		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
 	</div>
-
+	
 	<div class="social-icons">
 		
 		{% if site.data.sidebar.LinkedIn && site.data.sidebar.LinkedIn != "" %}<a target="_blank" href="https://www.linkedin.com/in/{{ site.data.sidebar.LinkedIn }}">{% include social-icon.html icon="LinkedIn" %}</a>{% endif %} 
@@ -18,7 +18,7 @@
 
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
 		<h3>Newsletter</h3>
-		<p></p>
+		<p>Get my latest recipes sent straight to your inbox.</p>
 		<input type="text" name="EMAIL" placeholder="Email address">
 		<input type="submit" value="Sign up">
 	</form>
