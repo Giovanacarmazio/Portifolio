@@ -9,7 +9,7 @@ recipe:
 ---
 
 
-Análise de KPI’s para Alavancagem de Venda | Medidas Dax Utilizadas: DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.
+Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
 
 
 
