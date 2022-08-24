@@ -3,7 +3,7 @@ date: 2022-08-22
 title: Análise de KPI’s para Alavancagem de Venda
 categories:
 
-featured_image: "![image](https://user-images.githubusercontent.com/83242981/186504554-af62fc9b-a821-4fa3-9b1c-bfc7bac5395e.png)"
+featured_image: "https://user-images.githubusercontent.com/83242981/186504554-af62fc9b-a821-4fa3-9b1c-bfc7bac5395e.png"
 recipe:
  
 ---
