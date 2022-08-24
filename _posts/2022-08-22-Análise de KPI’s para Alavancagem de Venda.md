@@ -16,8 +16,9 @@ Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%203.jpg)
 
-                        <b>Critérios de Análises:</b>
-
+ 
+ 
+ <b>Critérios de Análises:</b>
 
 Não foram considerados as linhas em branco.
 Subdivisão do banco de dados em dois formatos em M:
