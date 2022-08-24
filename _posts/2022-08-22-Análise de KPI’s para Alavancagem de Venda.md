@@ -10,6 +10,9 @@ recipe:
 
 
 Análise de KPI’s para Alavancagem de Venda | Medidas Dax Utilizadas: DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.
+
+
+
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%203.jpg)
 
