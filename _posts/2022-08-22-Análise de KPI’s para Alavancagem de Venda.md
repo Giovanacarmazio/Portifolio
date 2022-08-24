@@ -16,7 +16,7 @@ Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%203.jpg)
 
-Critérios de Análises:
+                        <b>Critérios de Análises:</b>
 
 
 Não foram considerados as linhas em branco.
@@ -25,8 +25,8 @@ Uma Tabela apenas para pedidos e prazos,
 E um agrupamento de dados apenas para Soma de valor de frete e valor de produtos por n° do pedido.
 
 
-Medidas Dax Utilizadas:
-<b>DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.</b>
+                         <b>Medidas Dax Utilizadas:
+               DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.</b>
 
 Data de Envio - Data Limite do envio para saber se o pedido tinha sido enviado no prazo ou não.
 Data de Entrega - Data Limite da Entrega para saber se o pedido tinha sido Entregue no prazo ou não.
@@ -37,7 +37,7 @@ E criei  medidas de %  dentro e fora do prazo de entrega e de envio, filtrando c
 Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento fossem diferente de em branco, foram cancelados.
 
 
-<b>Análises</b>
+                               <b>Análises</b>
 
 
 Mari Eletro
@@ -58,7 +58,7 @@ A média entre a data de recebimento da mercadoria em setembro era de 8 dias, en
 
 
 
-<b>Plano de Ações que deverão ser tomados para maximização de resultados:</b>
+                <b>Plano de Ações que deverão ser tomados para maximização de resultados:</b>
 
 
 
@@ -78,5 +78,7 @@ Entender com o cliente o motivo do cancelamento do pedido durante o processo do 
 Para que o indicador de cancelamento seja reduzido, precisamos melhorar os dias médios da compra efetiva e do prazo do envio, assim teremos menos cancelamentos devido a interferência de datas, porém é uma decisão que deverá ser analisada com cautela com base em estoque e disponibilidade logística.
 Verificar se conseguimos continuar reduzindo o prazo de médio de recebimento de mercadorias.
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiN2FkYjI4YzgtMmZmYS00ZjFjLTgyMDQtODBmZjFjZGFmMTViIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9&pageName=ReportSection">Clique aqui</a> e confira o Dashboard publicado.
+Nesse Link, você pode fazer filtros, verificar interações de painés e coletar dados para novas análises.
 
 
