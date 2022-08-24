@@ -30,4 +30,4 @@ Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento
 
 
 
-../img/Análise de KPI’s para Alavancagem de Venda - 2.jpg
+![][../img/Análise de KPI’s para Alavancagem de Venda - 2.jpg]
