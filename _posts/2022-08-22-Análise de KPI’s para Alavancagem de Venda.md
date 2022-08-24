@@ -30,4 +30,4 @@ Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento
 
 
 
-(https://github.com/Giovanacarmazio/portifolio/blob/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
+https://github.com/Giovanacarmazio/portifolio/blob/5eb4757af885faeb70027143312e1e57aedbe575/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg
