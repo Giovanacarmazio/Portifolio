@@ -25,8 +25,8 @@ Uma Tabela apenas para pedidos e prazos,
 E um agrupamento de dados apenas para Soma de valor de frete e valor de produtos por n° do pedido.
 
 
-                         <b>Medidas Dax Utilizadas:
-               DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.</b>
+
+<b>Medidas Dax Utilizadas:DATADIFF / IF/ AN/ ISBLANK / CALCULATE / COUNT.</b>
 
 Data de Envio - Data Limite do envio para saber se o pedido tinha sido enviado no prazo ou não.
 Data de Entrega - Data Limite da Entrega para saber se o pedido tinha sido Entregue no prazo ou não.
@@ -37,7 +37,7 @@ E criei  medidas de %  dentro e fora do prazo de entrega e de envio, filtrando c
 Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento fossem diferente de em branco, foram cancelados.
 
 
-                               <b>Análises</b>
+<b>Análises</b>
 
 
 Mari Eletro
@@ -58,7 +58,7 @@ A média entre a data de recebimento da mercadoria em setembro era de 8 dias, en
 
 
 
-                <b>Plano de Ações que deverão ser tomados para maximização de resultados:</b>
+<b>Plano de Ações que deverão ser tomados para maximização de resultados:</b>
 
 
 
