@@ -30,6 +30,6 @@ Para os Pedidos Cancelados, todas as linhas que na coluna Status de cancelamento
 
 
 
-![Cupcakes](https://github.com/Giovanacarmazio/portifolio/images/Análise de KPI’s para Alavancagem de Venda - 2.jpg)
+![Cupcakes](https://github.com/Giovanacarmazio/portifolio/blob/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
 
 ![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
