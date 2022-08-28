@@ -3,7 +3,7 @@ date: 2022-08-23
 title: Superstore Review
 categories:
 
-featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%201.jpg"
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%205.jpg"
 recipe:
  
 ---
@@ -12,7 +12,7 @@ recipe:
 Análise de dados Utilizando Tableau. linguagens utilizadas: VizQL
 
 
-
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%201.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%203.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%204.jpg)
