@@ -1,0 +1,25 @@
+---
+date: 2022-08-22
+title: Superstore Review - Dashboard
+categories:
+
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%201.png"
+recipe:
+ 
+---
+
+
+Análise de dados Utilizando o Tableau. linguagens utilizadas: VizQL
+
+
+
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%202.png)
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%203.png)
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Superstore%20Dashboard%204.png)
+ 
+Avaliação do conjunto de dados SUPERSTORE que é disponibilizado pelo Tableau como forma de treinamento. A partir desse conjunto de dados podemos treinar táticas, estratégias de visualização de dados e práticas recomendadas de design para criação de painéis e analise de dados.
+
+Visualize a publicação do relatório abaixo no meu portifólio Tableau Public <a href="https://public.tableau.com/views/SUPERSTOREDASHBOARD_16492034788180/PainelInicial?:language=pt-BR&:display_count=n&:origin=viz_share_link">Clicando aqui</a>.
+Nesse Link, você pode fazer filtros, verificar interações de painés e coletar dados para novas análises.
+
+
