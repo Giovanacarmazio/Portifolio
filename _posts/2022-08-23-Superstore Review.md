@@ -20,6 +20,7 @@ Análise de dados Utilizando Tableau. linguagens utilizadas: VizQL
 
 
 Avaliação do conjunto de dados SUPERSTORE que é disponibilizado pelo Tableau como forma de treinamento. A partir desse conjunto de dados podemos treinar táticas, estratégias de visualização de dados e práticas recomendadas de design para criação de painéis e analise de dados.
+
 <a href="https://public.tableau.com/views/SUPERSTOREDASHBOARD_16492034788180/PainelInicial?:language=pt-BR&:display_count=n&:origin=viz_share_link">Clique aqui</a> e confira o Dashboard publicado.
 Nesse Link, você pode fazer filtros, verificar interações de painés e coletar dados para novas análises.
 
