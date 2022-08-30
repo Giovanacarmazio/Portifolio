@@ -3,7 +3,7 @@ date: 2022-08-23
 title: Linguagens de Programação mais utilizadas no GITHUB
 categories:
 
-featured_image: ""
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Linguagens%20de%20Programa%C3%A7%C3%A3o%20mais%20utilizadas%20no%20GITHUB.jpg"
 recipe:
  
 ---
@@ -12,7 +12,6 @@ recipe:
 Análise de dados Utilizando Power Bi. linguagens utilizadas: M.
 
 
-![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Linguagens%20de%20Programa%C3%A7%C3%A3o%20mais%20utilizadas%20no%20GITHUB.jpg)
 
  
 
