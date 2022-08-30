@@ -20,4 +20,5 @@ Para responder essa pergunta baseada em dados, coletei dados da Confederação N
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjY5Zjg2MGQtNjZjYy00NzFiLTg4MGItYWYwZmMyMGZlYjUyIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9&pageName=ReportSection">Clique aqui</a> e confira o Dashboard publicado.
 
+<a href="https://static.poder360.com.br/2022/04/pesquisa-cnc-indice-consumo-familias-abr-2022.pdf">Clicando aqui</a>,você pode conferir na integra a pesquisa feita pela CNC.
 
