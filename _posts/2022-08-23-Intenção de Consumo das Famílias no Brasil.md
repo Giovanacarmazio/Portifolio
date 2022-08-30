@@ -3,7 +3,7 @@ date: 2022-08-23
 title: Intenção de Consumo das Famílias no Brasil
 categories:
 
-featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Inten%C3%A7%C3%A3o%20de%20Consumo%20das%20Familias.jpg"
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20da%20Inten%C3%A7%C3%A3o%20de%20Consumo%20das%20Fam%C3%ADlias%20no%20brasil.jpg"
 recipe:
  
 ---
@@ -12,7 +12,7 @@ recipe:
 Análise de dados Utilizando Power Bi. linguagens utilizadas: M.
 
 
-![]()
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Inten%C3%A7%C3%A3o%20de%20Consumo%20das%20Familias.jpg)
 
 Pensando no mercado de bens de consumo, qual sua opinião sobre a intenção de Consumo das Familias no Brasil?
 
