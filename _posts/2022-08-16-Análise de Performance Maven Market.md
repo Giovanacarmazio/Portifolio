@@ -3,7 +3,7 @@ date: 2022-08-16
 title: Análise de Performance Maven Market
 categories:
 
-featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20Performance%20Maven%20Market.jpg"
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20Performance%20Maven%20Market2.jpg"
 recipe:
  
 ---
