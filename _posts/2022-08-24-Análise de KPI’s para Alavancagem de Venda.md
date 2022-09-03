@@ -1,5 +1,5 @@
 ---
-date: 2022-08-22
+date: 2022-08-24
 title: Análise de KPI’s para Alavancagem de Venda
 categories:
 
