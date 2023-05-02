@@ -3,8 +3,8 @@ date: 2023-05-02
 title: Indicadores de Auditoria Interna
 categories:
 
-featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20Auditoria.jpg"
-
+featured_image: "[https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20Auditoria.jpg](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20Auditoria.jpg)"
+recipe:
  
 ---
 
