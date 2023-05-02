@@ -9,14 +9,15 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
+
+ Análise de Performance de Vendas Maven Market.
 
 
 
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20Performance%20Maven%20Market_page-0001.jpg)
 
 
- Análise de Performance conjunto de dados Maven Market.
+ Análise de Performance de Vendas Maven Market - Power BI e DAX.
 
 
 
