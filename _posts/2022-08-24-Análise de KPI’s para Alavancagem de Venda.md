@@ -9,14 +9,15 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
+Análise de Métricas de Alavancagem de vendas,com objetivo de identificação das áreas que precisam de atenção e implementação de estratégias específicas para melhorar o desempenho de vendas.
 
 
 
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20KPI%E2%80%99s%20para%20Alavancagem%20de%20Venda%20-%203.jpg)
 
- 
+ Criação de KPI's de Métricas de Alavancagem de vendas.
+ Ao analisar esses KPIs, as empresas podem identificar áreas que precisam de atenção e implementar estratégias específicas para melhorar o desempenho de vendas.
  
  <b>Critérios de Análises:</b>
 
