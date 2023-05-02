@@ -13,7 +13,7 @@ Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
 
 
 
-![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/An%C3%A1lise%20de%20Performance%20Maven%20Market_page-0001.jpg)
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20Auditoria.jpg)
 
 Indicadores de Auditoria Interna
 
