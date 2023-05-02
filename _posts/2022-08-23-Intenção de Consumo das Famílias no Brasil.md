@@ -9,7 +9,7 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power Bi. linguagens utilizadas: M.
+Analise de dados fornecidos pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), para medir a disposição dos consumidores brasileiros para gastar dinheiro em bens de consumo duráveis e não duráveis.
 
 
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Inten%C3%A7%C3%A3o%20de%20Consumo%20das%20Familias.jpg)
