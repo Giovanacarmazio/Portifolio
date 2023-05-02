@@ -9,7 +9,7 @@ recipe:
 ---
 
 
- Criação de Indicadores para o departamento de RH, medindo a satisfação dos colaboradores para relacionar com o Turnover da organização
+ Criação de Indicadores para o departamento de RH, afim de mensurar o grau de satisfação e engajamento dos colaboradores em relação ao ambiente de trabalho, às políticas e aos benefícios oferecidos pela empresa.
 
 
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20People.jpg)
@@ -18,7 +18,7 @@ recipe:
 
 Indicadores People - Analise de Semtimento dos funcionários - Avaliação Interna.
 
-Criação de Indicadores para o departamento de Recursos Humanos de uma organização. Utilizei medidas DAX e SQL para obter informações sobre o Score de sentimentos, o total de entrevistas realizadas, avaliações de 2 semestres e a medição da felicidade dos colaboradores. Além disso, incluí um gráfico de árvore de decomposição e análise da tendência de felicidade.
+O Objetivo de mensuração dos indicadores é ajudar a identificar oportunidades de melhorias na gestão de pessoas, bem como a avaliar o impacto de políticas e ações implementadas pelo RH no bem-estar dos colaboradores. Além disso, colaboradores mais felizes e engajados tendem a ser mais produtivos e a permanecer mais tempo na empresa, o que contribui para a redução de turnover e para a criação de uma cultura organizacional positiva.
 
 Os indicadores principais do Dashboard são o desempenho, jornada de trabalho, política de pagamento, saúde e segurança. Esses indicadores fornecem uma visão geral do desempenho da equipe de RH em relação a esses aspectos críticos.
 
