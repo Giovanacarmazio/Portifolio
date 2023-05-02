@@ -16,7 +16,7 @@ recipe:
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20People%201%20.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Indicadores%20People%202.jpg)
 
-Indicadores People - Analise contentamento funcionários.
+Indicadores People - Analise de Semtimento dos funcionários - Avaliação Interna.
 
 Criação de Indicadores para o departamento de Recursos Humanos de uma organização. Utilizei medidas DAX e SQL para obter informações sobre o Score de sentimentos, o total de entrevistas realizadas, avaliações de 2 semestres e a medição da felicidade dos colaboradores. Além disso, incluí um gráfico de árvore de decomposição e análise da tendência de felicidade.
 
