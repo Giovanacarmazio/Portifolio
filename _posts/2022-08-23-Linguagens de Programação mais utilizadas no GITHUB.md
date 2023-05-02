@@ -8,9 +8,7 @@ recipe:
  
 ---
 
-
-Análise de dados Utilizando Power Bi. linguagens utilizadas: M.
-
+Análise Exploratória das linguagens de programação mais utilizadas em projetos enviados para o Github.
 
 
  
