@@ -9,10 +9,7 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power Bi. linguagens utilizadas: M e Dax
-
-
-Análise de vendas de lojas e suas filiais para desenvolvimento da Semana Power BI.
+Análise de Dados Exploratória de dataset de Vendas, com objetivo de aumento de entender o público alvo e criar ações promocionais para alavancagem de vendas.
 
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDgyYTA2ODktNWJjNC00ZjdhLWJlNzItMGFhZWE4NzhmMzMzIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9">Clique aqui</a> e confira o Dashboard publicado.
