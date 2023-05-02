@@ -9,7 +9,8 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
+Análise da funcionalidade fornecida pelos serviços cognitivos da Microsoft, de recursos como a análise de sentimentos, detecção de tópicos, reconhecimento óptico de caracteres (OCR) e reconhecimento de imagem.
+Ao usar a análise de sentimentos, o Power BI pode extrair informações sobre o sentimento e a opinião das pessoas em relação a determinados tópicos, permitindo que os usuários avaliem a satisfação do cliente, a reputação da marca e outras métricas de engajamento. Já o OCR e o reconhecimento de imagem permitem que o Power BI analise imagens e extraia informações de textos presentes nelas, como, por exemplo, a leitura de etiquetas de produtos em uma foto de um supermercado.
 
 
 
