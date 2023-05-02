@@ -20,6 +20,7 @@ Indicadores de Auditoria Interna
 Fiz a criação de indicadores para o departamento de Auditoria Interna da uma organização. Utilizei medidas DAX e SQL para obter informações sobre o total de atividades realizadas, a quantidade de amostragem, a quantidade de inconsistências encontradas, a quantidade de erros e a qualidade da amostragem das bases auditadas. 
 
 Métricas:
+
 -Total de atividades: Este indicador mede a quantidade total de atividades realizadas pela equipe de Auditoria Interna. Isso inclui todas as tarefas relacionadas à auditoria, como análises de documentos, entrevistas com funcionários, análise de sistemas e processos internos.
 
 -Quantidade de amostragem: Este indicador mede a quantidade de itens selecionados aleatoriamente para serem auditados. Por exemplo, se a equipe de auditoria estiver revisando faturas de fornecedores, eles podem selecionar uma amostra de 50 faturas para revisão.
