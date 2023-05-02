@@ -29,6 +29,6 @@ A medição da felicidade dos colaboradores é um indicador importante porque co
 Em resumo, o Dashboard que criei fornece uma visão geral completa dos indicadores de RH mais críticos da organização, permitindo que os gestores tomem decisões informadas e melhorem o desempenho da equipe de RH.
 
 
-<a href="https://public.tableau.com/app/profile/giovana7132/viz/Livro7_16297549846540/Painel1">Clique aqui</a> e confira o Dashboard publicado.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOTU2NmI4ODQtOGRkMC00ZmZmLWFmZTktMDUwNTc1NjA2M2QwIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9">Clique aqui</a> e confira o Dashboard publicado.
 
 
