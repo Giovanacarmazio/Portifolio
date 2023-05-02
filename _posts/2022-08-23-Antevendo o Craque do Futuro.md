@@ -3,7 +3,7 @@ date: 2022-08-23
 title: Antevendo o Craque do Futuro
 categories:
 
-featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Antevendo%20o%20Craque%20do%20Futuro%201.jpg"
+featured_image: "https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Antevendo%20o%20Craque%20do%20Futuro%202.jpg"
 recipe:
  
 ---
