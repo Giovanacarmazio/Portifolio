@@ -10,7 +10,7 @@ recipe:
 
 
 Criação de métricas para analise da ferramenta de IA Narrativa Inteligente.
-é uma funcionalidade do Power BI que usa algoritmos de linguagem natural para transformar dados em histórias significativas e fáceis de entender. Ela permite que os usuários criem relatórios interativos que explicam automaticamente os insights dos dados, sem precisar escrever texto manualmente.
+É uma funcionalidade do Power BI que usa algoritmos de linguagem natural para transformar dados em histórias significativas e fáceis de entender. Ela permite que os usuários criem relatórios interativos que explicam automaticamente os insights dos dados, sem precisar escrever texto manualmente.
 
 
 
