@@ -9,7 +9,7 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Tableau. linguagens utilizadas: VizQL e ferramentas de machine learning
+Analise de dados FIFA 2021, com utilização de ferramentas de machine learning para previsão das Skills que um craque do futuro precisa para se destacar nos próximos anos. 
 
 
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/Antevendo%20o%20Craque%20do%20Futuro%202.jpg)
