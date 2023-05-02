@@ -9,7 +9,7 @@ recipe:
 ---
 
 
-Análise de dados Utilizando Power BI. linguagens utilizadas: DAX, M.
+Criação de Indicadores de Auditoria Interna. O Objetivo é medir a eficácia e eficiência dos processos de auditoria interna da organização. A partir desse Dashboard, é possivel avaliar o desempenho da equipe de auditoria interna, identifique áreas de melhoria e monitore o cumprimento de regulamentações e políticas internas. 
 
 
 
