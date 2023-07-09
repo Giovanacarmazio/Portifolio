@@ -32,7 +32,7 @@ A Medida dax Utilizada foi:
 Após a criação da Medida, é só clicar no seu card, ir em Formato/ Cartões / Imagem e em URL de Imagem, selecionar a medida dax criada.
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMTdjZjE4OTYtNTUxNy00Y2EyLTk4ZjItYzhlNTE2MjUyOGQxIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9">Clique aqui</a> e confira o Dashboard publicado.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjViMjhjZDQtNzk1MS00NTE5LWE3NWEtMjJmNmQ4OGI2MTE3IiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9">Clique aqui</a> e confira o Dashboard publicado.
 Nesse Link, você pode fazer filtros e verificar interações de painés.
 
 
