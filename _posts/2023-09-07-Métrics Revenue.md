@@ -27,32 +27,8 @@ O Objetivo principal foi a criação de novos cartões disponibilizados pela Mic
 
 A Medida dax Utilizada foi:
 
-Sparkline =
-VAR Defs = "<defs>
-    <linearGradient id='grad' x1='0' y1='25' x2='0' y2='50' gradientUnits='userSpaceOnUse'>
-        <stop stop-color='navy' offset='0' />
-        <stop stop-color='transparent' offset='1' />
-    </linearGradient>
-</defs>"
-VAR XMinDate = MIN(dCalendario[Data])
-VAR XMaxDate = MAX(dCalendario[Data])
-VAR YMinValue = MINX(VALUES(dCalendario[Data]), CALCULATE([Revenue]))
-VAR YMaxValue = MAXX(VALUES(dCalendario[Data]), CALCULATE([Revenue]))
-VAR SparklineTable = ADDCOLUMNS(
-    SUMMARIZE('adidas_sales', dCalendario[Data]),
-        "X", INT(150 * DIVIDE(dCalendario[Data] - XMinDate, XMaxDate - XMinDate)),
-        "Y", INT(50 * DIVIDE([Revenue] - YMinValue, YMaxValue - YMinValue))
-)
-VAR Lines = CONCATENATEX(SparklineTable, [X] & "," & 50 - [Y], " ", dCalendario[Data])
-VAR SVGImageURL = IF(HASONEVALUE(dCalendario[Data]),
-    "data:image/svg+xml;utf8," & 
-    "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 150 50'>" & Defs &
-    "<polyline fill='url(#grad)' fill-opacity='0.3' stroke='navy' 
-      stroke-width='3' points=' 0 50 " & Lines & 
-      " 150 150 Z '/></svg>",
-    BLANK()
-)
-RETURN SVGImageURL
+![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/M%C3%A9trics%20Revenue%204.jpg)
+
 
 Após a criação da Medida, é só clicar no seu card, ir em Formato/ Cartões / Imagem e em URL de Imagem, selecionar a medida dax criada.
 
