@@ -9,7 +9,7 @@ recipe:
 ---
 
 
-Métrics Revenue
+Métrics Revenue - Inclusão de graficos dinâmicos nos novos cartões disponibilizados pela Microsoft
 
 
 
@@ -22,7 +22,7 @@ Métrics Revenue - Power BI e DAX.
 
 Esse dashboard fornece uma visão geral o desempenho financeiro do conjunto de dados estudado.
 Também nos permite identificar oportunidades de crescimento, otimizar nossas estratégias de vendas e tomar decisões mais embasadas. 
-O Objetivo principal foi a criação de novos cartões disponibilizados pela Microsoft, testando a inclusão de graficos dinamicos nos cartões.
+O Objetivo principal foi a criação de novos cartões disponibilizados pela Microsoft, testando a inclusão de graficos dinâmicos nos cartões.
 
 A Medida dax Utilizada foi:
 
