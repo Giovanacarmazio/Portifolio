@@ -9,8 +9,7 @@ recipe:
 ---
 
 
-
- Métrics Revenue
+Métrics Revenue
 
 
 
@@ -35,4 +34,8 @@ Após a criação da Medida, é só clicar no seu card, ir em Formato/ Cartões 
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTdjZjE4OTYtNTUxNy00Y2EyLTk4ZjItYzhlNTE2MjUyOGQxIiwidCI6ImU5YzYxMzhlLTQyZmUtNGM3MS1iMWFkLTc1ZjA1NTdiOWI0NSJ9">Clique aqui</a> e confira o Dashboard publicado.
 Nesse Link, você pode fazer filtros e verificar interações de painés.
+
+
+
+
 
