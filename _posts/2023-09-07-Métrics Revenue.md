@@ -1,5 +1,5 @@
 ---
-date:2023-09-07
+date: 2023-09-07
 title: Métrics Revenue
 categories:
 
