@@ -13,7 +13,7 @@ Métrics Revenue - Inclusão de graficos dinâmicos nos novos cartões disponibi
 
 
 
-![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/M%C3%A9trics%20Revenue%201.jpg)
+
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/M%C3%A9trics%20Revenue%202.jpg)
 ![](https://raw.githubusercontent.com/Giovanacarmazio/portifolio/main/images/M%C3%A9trics%20Revenue%203.jpg)
 
